@@ -7,6 +7,9 @@ ROLE: EA Web Scraper
 DataKind DataJam
 Effective Altruism
 Data Acquisition (Charities in SE Asia)
+
+the word file https://docs.google.com/document/d/1s6jSXTJkGm6w46uGjHacL04tHAPtxc04RB_biwFwfqY/edit
+
 Short url of this document: https://tinyurl.com/eajam20180110 
 
 DataJam Guide Steps:
